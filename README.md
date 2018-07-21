@@ -1,4 +1,2 @@
 # Node-Js-Master
-
---TODO
---Exercise
+Nodejs Exercise for Nodejs Master Class
